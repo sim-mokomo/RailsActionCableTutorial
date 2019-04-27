@@ -1,2 +1,2 @@
 # RailsActionCableTutorial
-RailsGuideのActionCable概要をなぞった
+Rails,ActionCableについて試してみる。チャットプログラム
